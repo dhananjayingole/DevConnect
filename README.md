@@ -28,3 +28,26 @@ DevConnect is a powerful backend API platform that connects developers with recr
 - **Platform Analytics** - View platform statistics and metrics
 - **User Management** - Manage user accounts and permissions
 - **Content Moderation** - Monitor and moderate platform content
+
+## 🛠️ Technology Stack
+
+- **Framework**: FastAPI 0.104.1
+- **Database**: SQLite (default), PostgreSQL ready
+- **ORM**: SQLAlchemy 2.0
+- **Authentication**: JWT with bcrypt hashing
+- **Validation**: Pydantic v2
+- **Documentation**: Swagger UI & ReDoc
+
+## 📋 Prerequisites
+
+- Python 3.9 or higher
+- pip (Python package manager)
+- Virtual environment (recommended)
+
+## 🚀 Installation & Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/devconnect.git
+cd devconnect
